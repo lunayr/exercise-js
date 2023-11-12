@@ -27,18 +27,7 @@ div.style.justifyContent = "center";
 div.style.border = "2px solid black";
 div.style.justifyContent = "space-around";
 
-let svenskaTal = [
-  "ett",
-  "två",
-  "tre",
-  "fyra",
-  "fem",
-  "sex",
-  "sju",
-  "åtta",
-  "nio",
-  "tio",
-];
+let svenskaTal = ["ett", "två", "tre", "fyra", "fem", "sex", "sju", "åtta", "nio", "tio"];
 
 let alignment = ["left", "center", "right"];
 
